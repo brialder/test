@@ -1,0 +1,10 @@
+body {
+    background-color: aliceblue;
+    font-family: 'Aptos', Georgia, 'Times New Roman', Times, serif;
+}
+h1, h2, h3, .subheading {
+    font-family: 'Aptos', Georgia, 'Times New Roman', Times, serif !important;
+}
+h2:hover, h3:hover {
+    color: darkorange;
+}

@@ -1,0 +1,49 @@
+body{
+font-family: Comic;
+background-repeat: no-repeat;
+background-color: rgba(107, 146, 31, 0.597);
+color: rgb(255, 0, 0);
+background-size: cover;
+background-image: url("../assets/img/home-bg.jpg")
+
+}
+a{
+color: rgb(0, 0, 0);
+background-color: gray;
+text-align: center;
+}
+a:hover{
+color: blue;
+font-weight: bolder;
+}
+h1,h2,h3,body{
+text-align:center;
+}
+img{
+/* margin: auto;
+    display: block; */
+border: 5px, solid darkgreen;
+padding: 5px;
+height: 450px;
+}
+.bb{
+font-family: chiller;
+color: darkorchid;
+border: 5px dashed yellow;
+font-size: 400%;
+font-weight: bolder;
+background-color: limegreen;
+}
+.bb:hover{
+font-size: 450%;
+color: red;
+border: 5px solid cyan;
+background-color: yellowgreen;
+}
+li{
+width: fit-content
+}
+li:hover{
+text-decoration: underline;
+background-color: darkgreen;
+}
